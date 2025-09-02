@@ -21,3 +21,8 @@ Built for practicing real-time audio transcription and integrating speech-to-tex
 ---
 
 ## 📂 Project Structure
+Transcribe(audio to text)/
+│-- app.py # Main script
+│-- requirements.txt # Dependencies
+│-- static/ # (Optional) CSS/JS if you made a UI
+│-- templates/ # (Optional) HTML if using Flask
